@@ -3,10 +3,14 @@
 ## Desafio do Bootcamp de Ciência de Dados com Python da Santander + DIO
 
 O desafio consiste em:
-Configurar o setup de banco de dados na azure;
-Popular o servidor com script fornecido;
-Integrar o MySQL com o Power BI
-Realizar transformações no banco de dados
+
+* Configurar o setup de banco de dados na azure;
+
+* Popular o servidor com script fornecido;
+
+* Integrar o MySQL com o Power BI;
+
+* Realizar transformações no banco de dados
 
 Foram realizados exclusões e criações de tabelas, mesclagem de colunas e tabelas, ordenação de dados e um relatório.
 
