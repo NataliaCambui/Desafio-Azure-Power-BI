@@ -1,4 +1,4 @@
-# Desafio-Azure-Power-BI
+# Desafio-Azure-MySQL-Power-BI
 
 ## Desafio do Bootcamp de Ciência de Dados com Python da Santander + DIO
 
